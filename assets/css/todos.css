@@ -1,6 +1,10 @@
-.container{
-	background:grey;
+#container{
+	
 	width:360px;
 	margin: 0px auto;
-
+	border: 2px solid gray;
+}
+.selected{
+	color: gray;
+	text-decoration: line-through;
 }
